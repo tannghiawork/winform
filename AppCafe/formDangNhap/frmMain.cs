@@ -92,7 +92,7 @@ namespace formDangNhap
         {
             frmLogin login = new frmLogin();
             LoadChildFrom(login);
-            đăngXuấtToolStripMenuItem.Visible = false;
+            đăngXuấtToolStripMenuItem.Visible = false;dd
         }
     }
 }
