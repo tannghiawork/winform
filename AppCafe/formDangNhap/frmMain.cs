@@ -87,5 +87,12 @@ namespace formDangNhap
             LoadChildFrom(login);
             đăngXuấtToolStripMenuItem.Visible = false;
         }
+
+        private void đăngNhậpToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            frmLogin login = new frmLogin();
+            LoadChildFrom(login);
+            đăngXuấtToolStripMenuItem.Visible = false;
+        }
     }
 }
