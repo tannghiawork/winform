@@ -1,0 +1,7 @@
+D:\Đồ án lt win\AppCafe\DAO\bin\Debug\DAO.dll
+D:\Đồ án lt win\AppCafe\DAO\bin\Debug\DAO.pdb
+D:\Đồ án lt win\AppCafe\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Đồ án lt win\AppCafe\DAO\obj\Debug\DAO.dll
+D:\Đồ án lt win\AppCafe\DAO\obj\Debug\DAO.pdb
+D:\Đồ án lt win\AppCafe\DAO\bin\Debug\DTO.dll
+D:\Đồ án lt win\AppCafe\DAO\bin\Debug\DTO.pdb
