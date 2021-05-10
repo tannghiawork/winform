@@ -34,3 +34,6 @@ D:\Đồ án lt win\AppCafe\formDangNhap\bin\Debug\BUS.pdb
 D:\Đồ án lt win\AppCafe\formDangNhap\bin\Debug\DAO.pdb
 D:\Đồ án lt win\AppCafe\formDangNhap\bin\Debug\DTO.dll
 D:\Đồ án lt win\AppCafe\formDangNhap\bin\Debug\DTO.pdb
+D:\winform\AppCafe\formDangNhap\bin\Debug\formDangNhap.exe.config
+D:\winform\AppCafe\formDangNhap\obj\Debug\formDangNhap.exe
+D:\winform\AppCafe\formDangNhap\obj\Debug\formDangNhap.pdb
